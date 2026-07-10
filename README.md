@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Contest](https://img.shields.io/badge/IEEE-SciVis%202026-red)](https://sciviscontest2026.github.io)
 
----
+--- 
 
 ## 📌 Overview
 
