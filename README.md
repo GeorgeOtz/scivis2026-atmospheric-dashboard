@@ -63,7 +63,7 @@ scivis2026-atmospheric-dashboard/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/scivis2026-atmospheric-dashboard
+git clone https://github.com/GeorgeOtz/scivis2026-atmospheric-dashboard
 cd scivis2026-atmospheric-dashboard
 
 # 2. Install dependencies
